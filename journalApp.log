@@ -1,0 +1,2 @@
+20:14:45.344 [SpringApplicationShutdownHook] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown : Commencing graceful shutdown. Waiting for active requests to complete
+20:14:45.359 [tomcat-shutdown] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown : Graceful shutdown complete
